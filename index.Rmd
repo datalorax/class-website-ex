@@ -1,0 +1,5 @@
+---
+title: "The amazing world of data viz"
+site: distill::distill_website
+listing: posts
+---
