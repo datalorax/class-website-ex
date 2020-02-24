@@ -4,9 +4,13 @@ description: |
   The amazing world of data viz
 output_dir: "docs"
 navbar:
+  left:
+    - text: Hi!
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - icon: fab fa-github
+      href: https://github.com/datalorax/class-website-ex
 output: distill::distill_article

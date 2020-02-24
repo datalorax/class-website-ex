@@ -10,9 +10,12 @@
       }
     ],
     "date": "2020-02-24",
-    "categories": [],
+    "categories": [
+      "dataviz",
+      "class"
+    ],
     "preview": "posts/2020-02-24-my-first-awesome-blog-post/my-first-awesome-blog-post_files/figure-html5/plot-1.png",
-    "last_modified": "2020-02-24T11:00:14-08:00"
+    "last_modified": "2020-02-24T11:06:14-08:00"
   },
   {
     "path": "posts/welcome/",

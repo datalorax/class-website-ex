@@ -6,6 +6,9 @@ author:
   - name: Daniel Anderson
     url: https://example.com/norajones
 date: 02-24-2020
+categories:
+  - dataviz
+  - class
 output:
   distill::distill_article:
     self_contained: false
