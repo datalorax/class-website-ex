@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-02-26-another-new-awesome-post/",
+    "title": "Another new awesome post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Daniel Anderson",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-02-26",
+    "categories": [],
+    "preview": "posts/2020-02-26-another-new-awesome-post/another-new-awesome-post_files/figure-html5/plot-ex1-1.png",
+    "last_modified": "2020-02-26T10:29:43-08:00",
+    "preview_width": 1248,
+    "preview_height": 960
+  },
+  {
     "path": "posts/2020-02-24-my-first-awesome-blog-post/",
     "title": "My first awesome blog post",
     "description": "A short description of the post.",
@@ -15,7 +32,9 @@
       "class"
     ],
     "preview": "posts/2020-02-24-my-first-awesome-blog-post/my-first-awesome-blog-post_files/figure-html5/plot-1.png",
-    "last_modified": "2020-02-24T11:06:14-08:00"
+    "last_modified": "2020-02-24T11:16:52-08:00",
+    "preview_width": 1248,
+    "preview_height": 768
   },
   {
     "path": "posts/welcome/",

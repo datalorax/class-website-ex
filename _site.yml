@@ -3,6 +3,7 @@ title: "The amazing world of data viz"
 description: |
   The amazing world of data viz
 output_dir: "docs"
+base_url: https://datalorax.github.io/class-website-ex/
 navbar:
   left:
     - text: Hi!
